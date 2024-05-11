@@ -1,2 +1,2 @@
 # Linked-List
-BSIC  linkedlist
+Basic  linkedlist
